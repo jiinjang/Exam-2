@@ -1,0 +1,10 @@
+Name          Stmts   Miss  Cover   Missing
+-------------------------------------------
+problem1.py       4      0   100%
+problem2.py       7      0   100%
+problem3.py       3      0   100%
+problem4.py      23      0   100%
+-------------------------------------------
+TOTAL            37      0   100%
+
+5 tests passed.
